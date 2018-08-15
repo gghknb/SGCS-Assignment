@@ -1,9 +1,0 @@
-20141575 README
-
-
-구동방법
-1. tmux에 들어간다.
-2. python DynamoDB_Import_S3.py 를 하여 aws에 있는 dynamoDB Table에 정보를 저장
-3. python DynamoDB_Query_CLI.py 를 하면 정보를 입력 할 수 있는데, bigram형식에 맞춰 입력을 하면 그 입력이 나온 만큼의 counts가 출력된다.
-4. 프로그램을 종료하고 싶으면 입력을 하는 부분에서 엔터를 치면 된다.
-

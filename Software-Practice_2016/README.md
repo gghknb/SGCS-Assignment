@@ -1,1 +1,0 @@
-# SG2016-Software-Practice

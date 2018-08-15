@@ -1,9 +1,0 @@
-1.sp20141575_proj5.tar 파일의 압축을 풀어 Mapper.py 와 Reducer.py 파일을 잘 보이는 곳에 저장한다.
-2. aws.amazon.com 이라는 사이트에 들어가서 로그인을 한다.
-3. amazon web service에서 s3 content에 들어가 bucket에 Mapper.py와 Reducer.py파일을 저장하여 놓는다.
-4. 다시 amazon web service에서 EMR에 들어간다.
-5. create cluster를 클릭 하고 Security and access에 해다오하는 부분의 EC2 Key pair을 proceed without an EC2 key pair 로 설정한다.
-6.화면 상단에 Quick options 옆에 Go to advanced options를 누르고 Softwar Configureation에서 Haddop 2.7.2에 체크한다.
-7. Add steps에서 step type을 Streaming program으로 설정하고 Configure을 누른다. 
-8. Mapper 부분에 S3에 저장한 Mapper.py를 Reducer부분에 Reducer.py를 넣고 Input에 링크를 설정하고 Output에 폴더이름을 설정해 놓고 Add해준다.
-9.Next를 눌러주며 필요한 option을 체크하여 cluster를 생성해주고 프로그램이 실행된다.

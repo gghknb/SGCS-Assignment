@@ -1,8 +1,0 @@
-if [ $# -eq 0 ]														#argument의 개수가 0과  같다면
-then
-	echo "Usage : phone searchfor [...searchfor]"					#에러 처리
-	echo "(You didn't tell me what you want to search for.)"		#에러 처리
-else
-	egrep -i "$1" mydata | egrep -i "$2" | egrep -i "$3" | egrep -i "$4" | egrep -i "$5" | egrep -i "$6" | egrep -i "$7" | egrep -i "$8" | egrep -i "$9" | awk -f display.awk						
-	#9개까지 중복 가능한 argument를 받아 and로 처리한다.
-fi
