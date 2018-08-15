@@ -1,0 +1,15 @@
+/* compiler test case */
+
+int main()
+{
+	int dog = 0;
+
+	if(dog == 0){
+	    dog = dog + 1;
+	}
+	else{
+		dog = dog - 1;
+	}
+
+	return 0; /* Success */
+}
