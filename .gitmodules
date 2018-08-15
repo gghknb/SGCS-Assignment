@@ -4,3 +4,9 @@
 [submodule "Capstone-Design2_2017/metamon"]
 	path = Capstone-Design2_2017/metamon
 	url = https://github.com/gghknb/metamon.git
+[submodule "Data-Mining_2017/Project/QDP"]
+	path = Data-Mining_2017/Project/QDP
+	url = https://github.com/gghknb/QDP.git
+[submodule "Software_Engineering_2016/Software_Engineering_team_6"]
+	path = Software_Engineering_2016/Software_Engineering_team_6
+	url = https://github.com/mj5834/Software_Engineering_team_6.git
