@@ -1,0 +1,6 @@
+[submodule "Capstone-Design1_2017/Project/WhereShouldIGo"]
+	path = Capstone-Design1_2017/Project/WhereShouldIGo
+	url = https://github.com/WhereShouldIGo/WhereShouldIGo.git
+[submodule "Capstone-Design2_2017/metamon"]
+	path = Capstone-Design2_2017/metamon
+	url = https://github.com/gghknb/metamon.git
