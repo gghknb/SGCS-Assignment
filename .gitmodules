@@ -1,12 +1,12 @@
 [submodule "Capstone-Design1_2017/Project/WhereShouldIGo"]
-	path = Capstone-Design1_2017/Project/WhereShouldIGo
+	path = 2017/Capstone-Design1_2017/Project/WhereShouldIGo
 	url = https://github.com/WhereShouldIGo/WhereShouldIGo.git
 [submodule "Capstone-Design2_2017/metamon"]
-	path = Capstone-Design2_2017/metamon
+	path = 2017/Capstone-Design2_2017/metamon
 	url = https://github.com/gghknb/metamon.git
 [submodule "Data-Mining_2017/Project/QDP"]
-	path = Data-Mining_2017/Project/QDP
+	path = 2017/Data-Mining_2017/Project/QDP
 	url = https://github.com/gghknb/QDP.git
 [submodule "Software_Engineering_2016/Software_Engineering_team_6"]
-	path = Software_Engineering_2016/Software_Engineering_team_6
+	path = 2016/Software_Engineering_2016/Software_Engineering_team_6
 	url = https://github.com/mj5834/Software_Engineering_team_6.git
